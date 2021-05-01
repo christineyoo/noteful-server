@@ -1,0 +1,4 @@
+ALTER TABLE folders
+  DROP COLUMN id;
+
+DROP TABLE IF EXISTS notes;
