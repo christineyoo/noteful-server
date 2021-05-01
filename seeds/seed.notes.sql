@@ -1,4 +1,4 @@
-INSERT INTO notes (note_name, content, folderId)
+INSERT INTO notes (note_name, content, folder_id)
 VALUES
     ('Bathroom', 'Install the shelves, clean the toilet and shower', 1),
     ('Checkpoint 19', 'Finish the server side for Noteful app', 2),
